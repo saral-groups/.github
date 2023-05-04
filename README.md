@@ -1,1 +1,1 @@
-SaralTech is a technology firm that specializes in providing innovative software solutions to businesses of all sizes. The company was founded with a vision to simplify technology for its clients and make it accessible to everyone, regardless of their technical expertise.
+SaralTech Profile
