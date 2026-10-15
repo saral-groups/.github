@@ -69,19 +69,12 @@ We build production-grade systems across the stack:
 | [`childfund-lms`](https://github.com/saral-groups/childfund-lms) | Learning management system for ChildFund India | TypeScript |
 | [`child-fund`](https://github.com/saral-groups/child-fund) | ChildFund platform build | JavaScript |
 | [`child-fund-app`](https://github.com/saral-groups/child-fund-app) | ChildFund mobile application | JavaScript |
-| [`tychr`](https://github.com/saral-groups/tychr) | EdTech platform (Tychr) | JavaScript |
-| [`tychr-ai`](https://github.com/saral-groups/tychr-ai) | AI layer for the Tychr platform | JavaScript |
 
 ### 💼 Client & Partner Projects
 
 | Repository | Description | Stack |
 |---|---|---|
-| [`life-arts`](https://github.com/saral-groups/life-arts) | Life Arts (UK) platform | JavaScript |
-| [`amatir`](https://github.com/saral-groups/amatir) | Amatir.org platform | JavaScript |
 | [`tracker`](https://github.com/saral-groups/tracker) | Internal tracking tool | HTML |
-| [`anahata-website`](https://github.com/saral-groups/anahata-website) | Anahata Connections website | TypeScript |
-| [`anahata-connections`](https://github.com/saral-groups/anahata-connections) | Anahata Connections web platform | Dart |
-| [`anahata-connections-mobile`](https://github.com/saral-groups/anahata-connections-mobile) | Anahata Connections mobile app | Dart |
 
 ### 🤖 AI, Finance & Trading
 
@@ -104,11 +97,6 @@ We build production-grade systems across the stack:
 | Repository | Description | Stack |
 |---|---|---|
 | [`.github`](https://github.com/saral-groups/.github) | Organisation profile and community health files | — |
-| [`saral-archive`](https://github.com/saral-groups/saral-archive) | Archived project storage | — |
-| [`househat-v1-archieve`](https://github.com/saral-groups/househat-v1-archieve) | HouseHat v1 (archived) | JavaScript |
-| [`househat-v2-archieve`](https://github.com/saral-groups/househat-v2-archieve) | HouseHat v2 (archived) | JavaScript |
-| [`tech-immortals-archieve`](https://github.com/saral-groups/tech-immortals-archieve) | Tech Immortals (archived) | JavaScript |
-| [`jamrio-archieve`](https://github.com/saral-groups/jamrio-archieve) | Jamrio (archived) | HTML |
 
 ---
 
