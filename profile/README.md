@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub organisation for **Saral Groups** — India's most comprehensive startup ecosystem. We help founders **launch, scale, and fund** their ventures with technology, marketing, legal, and capital support — all under one roof.
 
+**Where Everything becomes "Saral".**
+
 ---
 
 ## 🚀 Who We Are
@@ -37,26 +39,76 @@ Welcome to the official GitHub organisation for **Saral Groups** — India's mos
 
 We build production-grade systems across the stack:
 
-- **Frontend:** HTML, CSS, JavaScript, modern frameworks
-- **Backend:** Custom software, APIs, ERP/CRM engines
-- **AI/ML:** AI agents, LLM security, automation, content generation
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js
+- **Backend:** Node.js, Python, C#, custom APIs, ERP/CRM engines
+- **Mobile:** Flutter (Dart), React Native
+- **AI/ML:** AI agents, LLM security, automation, content generation, Jupyter Notebook
 - **Cloud & Security:** Cloud-native infra, managed security, VAPT
 - **Data:** Data engineering, analytics, real-time dashboards
+- **Trading:** MQL4, algo trading bots, Metatrader integrations
 
 ---
 
-## 📦 Featured Repositories
+## 📦 Our Repositories
 
-> *Replace these with your actual repos as you publish them.*
+### 🌐 Websites & Platforms
 
-| Repository | Description |
-|---|---|
-| [`saral-website`](https://github.com/saralgroups/saral-website) | Main corporate website and landing pages |
-| [`saraltech-erp`](https://github.com/saralgroups/saraltech-erp) | AI-driven ERP platform (CRM, HRMS, LMS) |
-| [`saral-ai-agents`](https://github.com/saralgroups/saral-ai-agents) | WhatsApp, voice, and desk automation agents |
-| [`saral-cyber-tools`](https://github.com/saralgroups/saral-cyber-tools) | OSINT, threat intel, and compliance tooling |
-| [`saral-saas-verticals`](https://github.com/saralgroups/saral-saas-verticals) | Vertical SaaS products (School, Health, etc.) |
-| [`saral-docs`](https://github.com/saralgroups/saral-docs) | Public documentation and guides |
+| Repository | Description | Stack |
+|---|---|---|
+| [`saralgroups`](https://github.com/saral-groups/saralgroups) | Main corporate website and landing pages | HTML |
+| [`website`](https://github.com/saral-groups/website) | Corporate website build | HTML |
+| [`saral-erp`](https://github.com/saral-groups/saral-erp) | AI-driven ERP platform (CRM, HRMS, LMS) | HTML |
+| [`strapi`](https://github.com/saral-groups/strapi) | Headless CMS and API layer | TypeScript |
+| [`template`](https://github.com/saral-groups/template) | Base template for new projects | TypeScript |
+
+### 🏫 SaaS Ecosystem Verticals
+
+| Repository | Description | Stack |
+|---|---|---|
+| [`saral-school`](https://github.com/saral-groups/saral-school) | Batch OS, fees, and parent comms for coaching networks | TypeScript |
+| [`childfund-lms`](https://github.com/saral-groups/childfund-lms) | Learning management system for ChildFund India | TypeScript |
+| [`child-fund`](https://github.com/saral-groups/child-fund) | ChildFund platform build | JavaScript |
+| [`child-fund-app`](https://github.com/saral-groups/child-fund-app) | ChildFund mobile application | JavaScript |
+| [`tychr`](https://github.com/saral-groups/tychr) | EdTech platform (Tychr) | JavaScript |
+| [`tychr-ai`](https://github.com/saral-groups/tychr-ai) | AI layer for the Tychr platform | JavaScript |
+
+### 💼 Client & Partner Projects
+
+| Repository | Description | Stack |
+|---|---|---|
+| [`life-arts`](https://github.com/saral-groups/life-arts) | Life Arts (UK) platform | JavaScript |
+| [`amatir`](https://github.com/saral-groups/amatir) | Amatir.org platform | JavaScript |
+| [`tracker`](https://github.com/saral-groups/tracker) | Internal tracking tool | HTML |
+| [`anahata-website`](https://github.com/saral-groups/anahata-website) | Anahata Connections website | TypeScript |
+| [`anahata-connections`](https://github.com/saral-groups/anahata-connections) | Anahata Connections web platform | Dart |
+| [`anahata-connections-mobile`](https://github.com/saral-groups/anahata-connections-mobile) | Anahata Connections mobile app | Dart |
+
+### 🤖 AI, Finance & Trading
+
+| Repository | Description | Stack |
+|---|---|---|
+| [`stock_exchange`](https://github.com/saral-groups/stock_exchange) | Stock exchange and market analysis toolkit | Jupyter Notebook |
+| [`jackylam-metatrader`](https://github.com/saral-groups/jackylam-metatrader) | Metatrader automation bot | MQL4 |
+| [`10x`](https://github.com/saral-groups/10x) | Trading automation system | C# |
+
+### 📱 Mobile Applications
+
+| Repository | Description | Stack |
+|---|---|---|
+| [`monzo`](https://github.com/saral-groups/monzo) | Monzo fintech web platform | JavaScript |
+| [`monzo-mobile`](https://github.com/saral-groups/monzo-mobile) | Monzo fintech mobile app | Dart |
+| [`ungist`](https://github.com/saral-groups/ungist) | Ungist mobile application | Dart |
+
+### 🗂️ Archive & Infrastructure
+
+| Repository | Description | Stack |
+|---|---|---|
+| [`.github`](https://github.com/saral-groups/.github) | Organisation profile and community health files | — |
+| [`saral-archive`](https://github.com/saral-groups/saral-archive) | Archived project storage | — |
+| [`househat-v1-archieve`](https://github.com/saral-groups/househat-v1-archieve) | HouseHat v1 (archived) | JavaScript |
+| [`househat-v2-archieve`](https://github.com/saral-groups/househat-v2-archieve) | HouseHat v2 (archived) | JavaScript |
+| [`tech-immortals-archieve`](https://github.com/saral-groups/tech-immortals-archieve) | Tech Immortals (archived) | JavaScript |
+| [`jamrio-archieve`](https://github.com/saral-groups/jamrio-archieve) | Jamrio (archived) | HTML |
 
 ---
 
